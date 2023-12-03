@@ -5,16 +5,18 @@ import java.util.Objects;
 import java.util.Optional;
 
 public class CalculationService {
-    GeneratorPensionFund generatorPensionFund = new GeneratorPensionFund();
-    private static List<PensionFund> pensionFunds;
+
 //    8) С полученными объектами сделайте следующие действия (с помощью стримов):
 
     public static void main(String[] args) throws IOException{
 
+        GeneratorPensionFund generatorPensionFund = new GeneratorPensionFund();
+        List<PensionFund> pensionFunds = generatorPensionFund.generatePensionFunds();
+
 
         //    а) Найдите фонд, где больше всего вложенцев
 
-        List<PensionFund> mostPopularFund = (List<PensionFund>) pensionFunds.stream()
+        PensionFund mostPopularFund = pensionFunds.stream()
                 .filter(Objects::nonNull)
                 .max(Comparator.comparingInt(fund -> fund.getPersons().size()))
                 .orElse(null);
@@ -41,7 +43,6 @@ public class CalculationService {
 
         System.out.println(deceivedPersons.size());
 
-
 //    г) Найдите среднюю пенсию по фондам
 
         double averagePension = pensionFunds.stream()
@@ -49,7 +50,7 @@ public class CalculationService {
                 .flatMap(fund -> fund.getPersons().stream())
                 .mapToDouble(worker -> worker.calculatePension())
                 .average()
-                .orElse(null);
+                .orElse(0.0);
 
         System.out.println(averagePension);
 

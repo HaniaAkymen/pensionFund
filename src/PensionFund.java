@@ -45,8 +45,6 @@ public class PensionFund {
         this.name = arrayPensionFunds[0];
         this.isState = Boolean.parseBoolean((arrayPensionFunds[1]));
         this.persons = GeneratorWorkers.generateWorkers();
-        this.workDays = createWorkDays();
-
 
     }
 
@@ -128,17 +126,29 @@ public class PensionFund {
         return sumOfPension / persons.size();
     }
 
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        PensionFund that = (PensionFund) o;
-        return isState == that.isState && Objects.equals(name, that.name) && Objects.equals(creationData, that.creationData) && Objects.equals(persons, that.persons);
+        if (!(o instanceof PensionFund that)) return false;
+        return isState() == that.isState() && Objects.equals(getName(), that.getName()) && Objects.equals(getCreationData(), that.getCreationData()) && Objects.equals(getPersons(), that.getPersons());
     }
 
+    /*    public int hashCode() {
+        int result = 0;
+        result = 31 * result + (name !=null ? name.hashCode() : 0);
+        result = 31 * result + age;
+        result = 31 * result + height;
+        result = 31 * result + weight;
+        result = 31 * result + (int) money;
+        result = 31 * result + (int) miniSalary;
+        result = 31 * result + (int) maxSalary;
+        result = 31 * result + (gender != null ? gender.toString().hashCode() : 0);
+        return result;
+    }*/
     @Override
     public int hashCode() {
-        return Objects.hash(name, isState, creationData, persons);
+        return Objects.hash(getName(), isState(), getCreationData(), getPersons());
     }
 
     @Override

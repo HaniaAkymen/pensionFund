@@ -8,16 +8,7 @@ import java.util.Random;
 
 public class GeneratorPensionFund {
 
-    public static void main(String[] args) throws IOException {
-
-        List<PensionFund> pensionFunds = generatePensionFunds();
-
-        for (PensionFund pensionFund : pensionFunds) {
-            System.out.println(pensionFund);
-        }
-    }
-
-    static List<PensionFund> generatePensionFunds() throws IOException {
+    public List<PensionFund> generatePensionFunds() throws IOException {
         File fileForFund = new File("fileForGenerate/generatedPensionFunds.txt");
         FileReader fileReader = new FileReader(fileForFund);
         BufferedReader bufferedReader = new BufferedReader(fileReader);
