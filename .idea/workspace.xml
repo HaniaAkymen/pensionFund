@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c700b9cd-8570-4dcb-a138-509a78c57602" name="Changes" comment="7-8" />
+    <list default="true" id="c700b9cd-8570-4dcb-a138-509a78c57602" name="Changes" comment="7,8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -137,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701575054247</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="7,8">
+      <created>1701575547211</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701575547211</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +162,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1-6,5" />
     <MESSAGE value="7-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="7-8" />
+    <MESSAGE value="7,8" />
+    <option name="LAST_COMMIT_MESSAGE" value="7,8" />
   </component>
 </project>
