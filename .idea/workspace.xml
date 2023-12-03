@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c700b9cd-8570-4dcb-a138-509a78c57602" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pensionFund.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeneratorPensionFund.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeneratorPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GeneratorWorkers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PensionFund.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Workers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileForGenerate/city.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileForGenerate/nameM.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fileForGenerate/nameM.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileForGenerate/nameRu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileForGenerate/nameW.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fileForGenerate/nameW.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fileForGenerate/pensionFund.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fileForGenerate/pensionFund.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbleToCalculatePension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbleToCalculatePension.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculatorUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculatorUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GaneranorPenFund.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GaneranorPenFund.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GenderType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GeneratorName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GeneratorName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pensioner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
-    </list>
+    <list default="true" id="c700b9cd-8570-4dcb-a138-509a78c57602" name="Changes" comment="7-8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +61,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GaneranorPenFund">
+  <component name="RunManager" selected="Application.CalculationService">
+    <configuration name="CalculationService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculationService" />
+      <module name="pensionFund" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GaneranorPenFund" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GaneranorPenFund" />
       <module name="pensionFund" />
@@ -97,13 +78,6 @@
     </configuration>
     <configuration name="GeneratorName (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GeneratorName" />
-      <module name="pensionFund" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GeneratorName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generators.GeneratorName" />
       <module name="pensionFund" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -125,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculationService" />
+        <item itemvalue="Application.GeneratorPensionFund (1)" />
         <item itemvalue="Application.GaneranorPenFund" />
         <item itemvalue="Application.GeneratorWorkers" />
         <item itemvalue="Application.GeneratorName (1)" />
-        <item itemvalue="Application.GeneratorPensionFund (1)" />
-        <item itemvalue="Application.GeneratorName" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +116,44 @@
       <option name="presentableId" value="Default" />
       <updated>1698777452687</updated>
     </task>
+    <task id="LOCAL-00001" summary="1-6,5">
+      <created>1701267032567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701267032567</updated>
+    </task>
+    <task id="LOCAL-00002" summary="7-8">
+      <created>1701574580398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701574580428</updated>
+    </task>
+    <task id="LOCAL-00003" summary="7-8">
+      <created>1701575054247</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701575054247</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1-6,5" />
+    <MESSAGE value="7-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="7-8" />
   </component>
 </project>

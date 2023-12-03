@@ -1,0 +1,100 @@
+Deutsche Privatbank Stuttgart, false
+Deutsche Privatbank Dortmund, false
+Deutsche Privatbank Leipzig, false
+Deutsche Privatbank Berlin, false
+Deutsche Privatbank Dresden, false
+Deutsche Privatbank Hannover, false
+Deutsche Privatbank München, false
+Deutsche state Rentenversicherung Nord — Standort Neubrandenburg, true
+Deutsche Privatbank Lübeck, false
+Deutsche Privatbank Essen, false
+, false
+Deutsche Privatbank München, false
+Deutsche state Rentenversicherung Nord, true
+Deutsche Privatbank Freiburg, false
+Deutsche Privatbank Dresden, false
+Deutsche Privatbank Düsseldorf, false
+Deutsche Privatbank Freiburg, false
+Deutsche Privatbank Berlin, false
+Deutsche Privatbank Stuttgart, false
+Deutsche Privatbank Stuttgart, false
+Deutsche Privatbank Hamburg, false
+Deutsche state Rentenversicherung Nord — Standort Lübeck, true
+Deutsche Privatbank Dortmund, false
+Deutsche Privatbank Lübeck, false
+Deutsche Privatbank Leipzig, false
+Deutsche Privatbank Freiburg, false
+Deutsche state Rentenversicherung Nord — Standort Lübeck, true
+Deutsche Privatbank Hannover, false
+Deutsche Privatbank Köln, false
+Deutsche Privatbank Essen, false
+Deutsche Privatbank Stuttgart, false
+Deutsche Privatbank Leipzig, false
+Deutsche state Rentenversicherung Bund, true
+Deutsche state Rentenversicherung Nord — Standort Lübeck, true
+Deutsche state Rentenversicherung Nord — Standort Hamburg, true
+Deutsche Privatbank Lübeck, false
+Deutsche state Rentenversicherung Nord — Standort Lübeck, true
+Deutsche state Rentenversicherung Knappschaft Bahn See, true
+Deutsche Privatbank Berlin, false
+Deutsche Privatbank Düsseldorf, false
+Deutsche Privatbank Freiburg, false
+Deutsche Privatbank Köln, false
+Deutsche state Rentenversicherung Bund, true
+Deutsche state Rentenversicherung Nord — Standort Neubrandenburg, true
+Deutsche state Rentenversicherung Bund, true
+Deutsche Privatbank München, false
+Deutsche Privatbank Freiburg, false
+Deutsche Privatbank Hamburg, false
+Deutsche Privatbank Dresden, false
+Deutsche Privatbank Berlin, false
+Deutsche state Rentenversicherung Nord — Standort Neubrandenburg, true
+Deutsche Privatbank München, false
+Deutsche Privatbank Freiburg, false
+, false
+Deutsche Privatbank Freiburg, false
+Deutsche Privatbank Hannover, false
+Deutsche Privatbank Dortmund, false
+Deutsche Privatbank Essen, false
+Deutsche Privatbank Stuttgart, false
+Deutsche state Rentenversicherung Nord — Standort Hamburg, true
+Deutsche Privatbank Hannover, false
+Deutsche Privatbank Berlin, false
+Deutsche Privatbank Hamburg, false
+Deutsche Privatbank München, false
+Deutsche Privatbank Frankfurt am Main, false
+Deutsche state Rentenversicherung Knappschaft Bahn See, true
+Deutsche state Rentenversicherung Nord, true
+Deutsche Privatbank Dresden, false
+Deutsche Privatbank Stuttgart, false
+Deutsche state Rentenversicherung Knappschaft Bahn See, true
+Deutsche state Rentenversicherung Knappschaft Bahn See, true
+Deutsche state Rentenversicherung Nord — Standort Neubrandenburg, true
+Deutsche Privatbank Hannover, false
+Deutsche state Rentenversicherung Bund, true
+Deutsche Privatbank Köln, false
+Deutsche Privatbank Freiburg, false
+Deutsche Privatbank Düsseldorf, false
+Deutsche Privatbank Köln, false
+Deutsche Privatbank Freiburg, false
+Deutsche Privatbank Berlin, false
+Deutsche Privatbank Frankfurt am Main, false
+Deutsche Privatbank Stuttgart, false
+Deutsche Privatbank Düsseldorf, false
+Deutsche Privatbank Düsseldorf, false
+Deutsche Privatbank Berlin, false
+Deutsche Privatbank Berlin, false
+Deutsche Privatbank Frankfurt am Main, false
+Deutsche Privatbank Stuttgart, false
+Deutsche state Rentenversicherung Nord, true
+Deutsche Privatbank Leipzig, false
+Deutsche Privatbank Frankfurt am Main, false
+Deutsche Privatbank Köln, false
+Deutsche state Rentenversicherung Knappschaft Bahn See, true
+Deutsche Privatbank Freiburg, false
+Deutsche Privatbank Essen, false
+Deutsche state Rentenversicherung Nord — Standort Neubrandenburg, true
+Deutsche Privatbank Berlin, false
+Deutsche state Rentenversicherung Nord — Standort Hamburg, true
+Deutsche state Rentenversicherung Nord — Standort Lübeck, true
+Deutsche Privatbank Köln, false

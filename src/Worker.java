@@ -39,6 +39,13 @@ public class Worker extends Person implements AbleToCalculatePension {
         System.out.println("Этот человек не дожил до пенсии");
     }
 
+//    @Override
+//    public void die() {
+//        int age = getAge();
+//        int result = (age - 50) + (int) pension;
+//        System.out.println("Этот пенсионер умер,он заработал " + result);
+//    }
+
     @Override
     public void die(int years) {
         System.out.println(getName() + " - этот человек не доживет до пенсии и умрет через " + years + " лет");

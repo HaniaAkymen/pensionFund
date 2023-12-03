@@ -1,10 +1,7 @@
 import java.io.IOException;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Objects;
-import java.util.List;
+import java.util.*;
 
 
 public class PensionFund {
@@ -85,6 +82,14 @@ public class PensionFund {
         this.persons = persons;
     }
 
+    public static Map<DayOfWeek, Boolean> getWorkDays() {
+        return workDays;
+    }
+
+    public static void setWorkDays(Map<DayOfWeek, Boolean> workDays) {
+        PensionFund.workDays = workDays;
+    }
+
     public void getInfo() {
         System.out.println("Информация о фонде: ");
         System.out.println("Название: " + name);
@@ -141,7 +146,6 @@ public class PensionFund {
         return "PensionFund{" +
                 "name='" + name + '\'' +
                 ", isState=" + isState +
-                ", creationData='" + creationData + '\'' +
                 ", persons=" + persons.size() +
                 ", workDays=" + workDays +
                 '}';
